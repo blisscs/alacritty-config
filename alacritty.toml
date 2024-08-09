@@ -1,7 +1,11 @@
+import = [
+    "~/.config/alacritty/alacritty-theme/themes/atom_one_light.toml"
+]
+
 [window]
 startup_mode = "Maximized"
 decorations = "Full"
 decorations_theme_variant = "Light"
 
 [font]
-size = 11
+size = 12
