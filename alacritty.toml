@@ -1,0 +1,12 @@
+[general]
+import = [
+    "~/.config/alacritty/alacritty-theme/themes/dawnfox.toml"
+]
+
+[window]
+startup_mode = "Maximized"
+decorations = "Full"
+decorations_theme_variant = "Light"
+
+[font]
+size = 12.5
