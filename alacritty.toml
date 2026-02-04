@@ -1,6 +1,6 @@
 [general]
 import = [
-    "~/.config/alacritty/alacritty-theme/themes/dracula.toml"
+    "~/.config/alacritty/alacritty-theme/themes/github_light_default.toml"
 ]
 
 [window]
