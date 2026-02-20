@@ -1,12 +1,13 @@
 [general]
 import = [
-    "~/.config/alacritty/alacritty-theme/themes/github_light_default.toml"
+    "~/.config/alacritty/alacritty-theme/themes/catppuccin_latte.toml"
 ]
 
 [window]
 startup_mode = "Maximized"
-decorations = "Full"
-decorations_theme_variant = "Light"
+decorations = "None"
+opacity = 0.95
+padding = { x = 8, y = 8 }
 
 [font]
 size = 13.0
